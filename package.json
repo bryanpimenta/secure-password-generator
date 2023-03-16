@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite --open",
-    "lint": "npx eslint ./src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx eslint ./src"
   },
   "repository": {
     "type": "git",
@@ -21,6 +20,7 @@
   "homepage": "https://github.com/bryanpimenta/secure-password-generator#readme",
   "dependencies": {
     "@trybe/eslint-config-frontend": "^1.8.3",
+    "clipboard-copy": "^4.0.1",
     "nanoid": "^4.0.1",
     "vite": "^4.2.0"
   },
