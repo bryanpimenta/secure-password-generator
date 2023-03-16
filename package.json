@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bryanpimenta/secure-password-generator/issues"
   },
-  "homepage": "https://github.com/bryanpimenta/secure-password-generator#readme"
+  "homepage": "https://github.com/bryanpimenta/secure-password-generator#readme",
+  "dependencies": {
+    "nanoid": "^4.0.1"
+  }
 }
